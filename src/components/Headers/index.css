@@ -1,0 +1,17 @@
+.para{
+    color:white;
+    padding:2px;
+    font-size: 14px;
+    
+}
+
+.nav-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    align-self: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    padding-top: 20px;
+}

@@ -1,0 +1,15 @@
+.images{
+    color:white;
+    font-size: 70px;
+}
+.para{
+    color:white;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    align-self: center;
+}
