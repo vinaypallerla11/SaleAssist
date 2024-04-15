@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+###  PROJECT OVERVIEW
+
+
+I have completed the sale Assist assignent as per requirement. I have used functional components and used this technologies like react.js. I have developed single page application. in this assignment I have used react Hooks like useState and useEffect, and I have imported like different icons from react icon website. I have fetched product data rest api and I have build layout as per the requirement. I used media queries for different screen size like Moibile phones, tablet and desktop. I have used css for styling and, I have pushed code the github repository after conected github repository to netlify. and I have deployed react app in netlify wesite.
+
